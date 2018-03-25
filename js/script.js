@@ -1,6 +1,6 @@
 'use strict';
 
-const url = 'http://api.icndb.com/jokes/random';
+const url = "https://api.icndb.com/jokes/random";
 const button = document.getElementById('get-joke');
 const paragraph = document.getElementById('joke');
 
